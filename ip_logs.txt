@@ -1,0 +1,69 @@
+2024-08-05 14:45:31,993 - Unique ID: 27298b1e-2adb-4ebb-a38a-dfd40e3decfe - IP Address: 127.0.0.1
+2024-08-05 14:45:43,368 - Unique ID: 27298b1e-2adb-4ebb-a38a-dfd40e3decfe - IP Address: 127.0.0.1
+2024-08-05 14:45:46,303 - Unique ID: 27298b1e-2adb-4ebb-a38a-dfd40e3decfe - IP Address: 127.0.0.1
+2024-08-05 14:47:25,377 - Unique ID: 27298b1e-2adb-4ebb-a38a-dfd40e3decfe - IP Address: 127.0.0.1
+2024-08-05 14:52:19,681 - Unique ID: b8f4524f-28d1-4c42-b466-9f49d5f5f73d - IP Address: 127.0.0.1
+2024-08-05 16:52:46,838 - Unique ID: be38cd28-0250-4b36-98ef-f7b3a9dff941 - IP Address: 127.0.0.1
+2024-08-05 17:07:01,580 - Unique ID: 4d37565b-3bad-4a51-ae26-0ee1717f90a7 - IP Address: 127.0.0.1
+2024-08-07 10:09:27,373 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 10:09:27,377 - cryptg detected, it will be used for encryption
+2024-08-07 10:09:31,156 - Connecting to 149.154.167.51:443/TcpFull...
+2024-08-07 10:09:33,110 - Connection to 149.154.167.51:443/TcpFull complete!
+2024-08-07 10:13:04,033 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 10:13:04,035 - cryptg detected, it will be used for encryption
+2024-08-07 10:13:09,554 - Connecting to 149.154.167.51:443/TcpFull...
+2024-08-07 10:13:09,667 - Connection to 149.154.167.51:443/TcpFull complete!
+2024-08-07 10:13:16,514 - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2024-08-07 10:15:33,234 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 10:15:33,236 - cryptg detected, it will be used for encryption
+2024-08-07 10:15:37,666 - Connecting to 149.154.167.51:443/TcpFull...
+2024-08-07 10:15:37,831 - Connection to 149.154.167.51:443/TcpFull complete!
+2024-08-07 10:15:45,046 - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2024-08-07 12:19:10,446 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:19:10,450 - cryptg detected, it will be used for encryption
+2024-08-07 12:20:49,382 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:20:49,387 - cryptg detected, it will be used for encryption
+2024-08-07 12:21:34,573 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:21:34,575 - cryptg detected, it will be used for encryption
+2024-08-07 12:25:51,175 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:25:51,179 - cryptg detected, it will be used for encryption
+2024-08-07 12:29:09,586 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:29:09,591 - cryptg detected, it will be used for encryption
+2024-08-07 12:29:56,238 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:29:56,242 - cryptg detected, it will be used for encryption
+2024-08-07 12:48:02,775 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:48:02,781 - cryptg detected, it will be used for encryption
+2024-08-07 12:48:39,528 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:48:39,530 - cryptg detected, it will be used for encryption
+2024-08-07 12:48:53,187 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:48:53,189 - cryptg detected, it will be used for encryption
+2024-08-07 12:50:13,993 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:50:13,997 - cryptg detected, it will be used for encryption
+2024-08-07 12:54:27,278 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:54:27,283 - cryptg detected, it will be used for encryption
+2024-08-07 12:59:54,348 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 12:59:54,354 - cryptg detected, it will be used for encryption
+2024-08-07 13:01:54,053 - Connecting to 149.154.167.51:443/TcpFull...
+2024-08-07 13:01:54,289 - Connection to 149.154.167.51:443/TcpFull complete!
+2024-08-07 13:02:04,043 - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2024-08-07 13:02:46,085 - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-08-07 13:02:46,088 - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-08-07 13:02:46,089 - Not disconnecting (already have no connection)
+2024-08-07 13:08:37,652 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 13:08:37,657 - cryptg detected, it will be used for encryption
+2024-08-07 13:09:13,406 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 13:09:13,410 - cryptg detected, it will be used for encryption
+2024-08-07 13:09:35,068 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 13:09:35,070 - cryptg detected, it will be used for encryption
+2024-08-07 13:09:41,353 - Connecting to 149.154.167.51:443/TcpFull...
+2024-08-07 13:09:41,499 - Connection to 149.154.167.51:443/TcpFull complete!
+2024-08-07 13:10:17,326 - Got difference for channel 2202002753 updates
+2024-08-07 13:10:43,119 - Got difference for channel 2246123447 updates
+2024-08-07 13:12:43,940 - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-08-07 13:12:47,382 - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-08-07 13:12:47,383 - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-08-07 13:12:47,383 - Not disconnecting (already have no connection)
+2024-08-07 13:17:31,984 - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-08-07 13:17:31,989 - cryptg detected, it will be used for encryption
+2024-08-07 13:44:02,223 - Connecting to 149.154.167.51:443/TcpFull...
+2024-08-07 13:44:03,973 - Connection to 149.154.167.51:443/TcpFull complete!
